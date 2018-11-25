@@ -15,8 +15,7 @@ int main(){
             index = b;
         }
     }
-    cout << "modus"<< index<< endl;
-}
+git }
 
 //Mencari max and mind;
 
@@ -31,4 +30,38 @@ if (a>b &&a > c){
 else if ( b > a && b > c){
     cout << "Max is :" << b << endl;
 }
-else cout<< "Max is : "
+else cout<< "Max is : "<< c;
+
+//different way to find max
+double max = myList[0];
+for (int i=1; i < ARRAY_SIZE; i++){
+    if (mylist[i]> max) max =myList[i]
+} 
+//find min 
+double max = myList[0];
+int indexOfMax = 0;
+for (int i=1; i < ARRAY_SIZE; i++){
+    if (myList[i] > max ){
+        max = myList[i];
+        indexOfMax = i;
+
+    }
+}
+
+// find min and max AGAIN: 
+
+int i, n ;
+float arr[100];
+
+cin >> n 
+cout << endl;
+
+for (i=0; i < n; ++i){
+    cout << "Angka" << i + 1<< ":";
+    cin >> arr[i];
+}
+for (i = 1; i< n; i ){
+    if (arr[0]< arr[i])
+        arr[0] = arr[i];
+}
+cout <<"Max" << arr[0];
