@@ -1,4 +1,4 @@
-Rangkuman all for Winter Quarter (Pasca Mid) 
+Rangkuman all for Autumn Quarter (Pasca Mid) 
 
 Including :
 
