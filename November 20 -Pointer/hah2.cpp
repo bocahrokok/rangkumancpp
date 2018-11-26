@@ -4,7 +4,7 @@ using namespace std;
 
 int main () {
 	int x=3, y=4;
-	int*ip;
+	int *ip;
 	ip = &x;
 	y = *ip;
 	x=10;
