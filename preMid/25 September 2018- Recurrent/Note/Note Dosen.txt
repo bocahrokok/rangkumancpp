@@ -1,0 +1,17 @@
+for 
+ misalkan menggunakan i, misal i sampai 20. 
+	bisa menggukan increment and decrement i++ or i--;
+	i = 20 ; i=0
+
+
+while do 
+	jika ada suatu sarat yg dipebuhi 
+do.. while..
+	proses terus menerus2 tidak mengecek apakah kondisi dipenuhi atau tidak. kalau nggak dia berhenti, lakukan dulu 
+
+
+for i=1; i=10 ; i++ 
+	for j=1, j=2, j++
+		for k=1, k=2, k++ 
+
+perulangan dari yang paling bawah which is k, kalau k sudah, liat j apakah perlu dilakukan satu event lagi, k dijalankan,
